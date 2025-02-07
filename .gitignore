@@ -1,2 +1,9 @@
 # Ignorar el entorno virtual
 env/
+# Ignorar la base de datos SQLite
+db.sqlite3
+
+# Ignorar la carpeta __pycache__ dentro de myproject
+myproject/__pycache__/
+
+*pyc
